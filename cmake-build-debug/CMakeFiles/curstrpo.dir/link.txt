@@ -1,1 +1,0 @@
-/usr/bin/cc -g   CMakeFiles/curstrpo.dir/main.c.o CMakeFiles/curstrpo.dir/notepadpw.c.o CMakeFiles/curstrpo.dir/weather.c.o CMakeFiles/curstrpo.dir/ipcheck.c.o CMakeFiles/curstrpo.dir/browser.c.o CMakeFiles/curstrpo.dir/fun.c.o  -o curstrpo -lcurl 
